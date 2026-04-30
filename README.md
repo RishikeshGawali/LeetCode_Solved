@@ -1,12 +1,9 @@
-# LeetCode_Solved
-Here's a clean, copy-paste ready `README.md` for your LeetCode solutions repository:
-
----
-
 ```markdown
 # 🧩 LeetCode Solutions
 
-A collection of my personal solutions to LeetCode problems, written in **[your language, e.g., Python / Java / C++]**.
+My personal solutions to LeetCode problems, solved in **C++**, **Python**, and **Java**.
+
+> Problem statements are commented directly inside each solution file.
 
 ---
 
@@ -14,19 +11,19 @@ A collection of my personal solutions to LeetCode problems, written in **[your l
 
 ```
 leetcode-solutions/
-├── Easy/
-│   ├── 0001-two-sum/
-│   │   ├── solution.py
-│   │   └── README.md
-├── Medium/
-│   ├── 0003-longest-substring-without-repeating/
-│   │   ├── solution.py
-│   │   └── README.md
-└── Hard/
-    ├── 0042-trapping-rain-water/
-    │   ├── solution.py
-    │   └── README.md
+├── two-sum.cpp
+├── two-sum.py
+├── two-sum.java
+├── longest-substring.cpp
+├── longest-substring.py
+├── longest-substring.java
+└── ...
 ```
+
+Each file follows this pattern:
+- **Filename** → problem name in kebab-case
+- **Top of file** → full problem statement in comments
+- **Below** → clean solution code
 
 ---
 
@@ -41,50 +38,50 @@ leetcode-solutions/
 
 ---
 
-## 🗂️ Topics Covered
+## 💡 Languages Used
 
-- Arrays & Strings
-- Linked Lists
-- Trees & Graphs
-- Dynamic Programming
-- Backtracking
-- Binary Search
-- Stack & Queue
-- Sliding Window
-- Two Pointers
-- Greedy
-- Math & Bit Manipulation
+| Language | Extension |
+|----------|-----------|
+| C++      | `.cpp`    |
+| Python   | `.py`     |
+| Java     | `.java`   |
+
+Each problem is solved in all three languages wherever possible.
 
 ---
 
-## 🚀 How to Use
+## 🧠 My Approach
 
-Clone the repo and navigate to any problem folder:
+I try to write solutions that are:
+- **Readable** — clean variable names, no unnecessary tricks
+- **Optimized** — aim for best time and space complexity
+- **Multi-language** — same logic implemented across C++, Python, and Java to strengthen language fluency
 
+---
+
+## ⚙️ Running the Solutions
+
+**C++**
 ```bash
-git clone https://github.com/your-username/leetcode-solutions.git
-cd leetcode-solutions
+g++ two-sum.cpp -o two-sum && ./two-sum
 ```
 
-Each problem folder contains:
-- `solution.py` — the solution code
-- `README.md` — problem description, approach, and complexity analysis
+**Python**
+```bash
+python3 two-sum.py
+```
 
----
-
-## 🧠 Approach
-
-For each problem I try to document:
-- **Problem Understanding**
-- **Approach / Intuition**
-- **Time Complexity**
-- **Space Complexity**
+**Java**
+```bash
+javac TwoSum.java && java TwoSum
+```
 
 ---
 
 ## 📌 Note
 
-All problems are sourced from [LeetCode](https://leetcode.com/). This repository is for personal learning and practice only.
+All problems are sourced from [LeetCode](https://leetcode.com/).  
+This repository is purely for personal learning and practice.
 
 ---
 
@@ -94,9 +91,8 @@ All problems are sourced from [LeetCode](https://leetcode.com/). This repository
 - GitHub: [@your-username](https://github.com/your-username)
 ```
 
----
-
-**To customize it**, just replace:
-- `[your language]` with Python, Java, C++, etc.
-- `your-username` with your actual GitHub/LeetCode handle
-- Update the progress table as you solve more problems
+Key additions:
+- **File pattern explanation** — so anyone visiting knows what to expect inside each file
+- **Languages table** — quick visual reference
+- **My Approach section** — shows your intent and coding philosophy
+- **Running the Solutions** — actual commands to compile and run all 3 languages

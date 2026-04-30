@@ -1,5 +1,5 @@
 ```markdown
-# 🧩 LeetCode Solutions
+# LeetCode_Solved
 
 My personal solutions to LeetCode problems, solved in **C++**, **Python**, and **Java**.
 
@@ -7,7 +7,7 @@ My personal solutions to LeetCode problems, solved in **C++**, **Python**, and *
 
 ---
 
-## 📁 Structure
+## Structure
 
 ```
 leetcode-solutions/
@@ -27,7 +27,7 @@ Each file follows this pattern:
 
 ---
 
-## 📊 Progress
+## Progress
 
 | Difficulty | Solved |
 |------------|--------|
@@ -38,7 +38,7 @@ Each file follows this pattern:
 
 ---
 
-## 💡 Languages Used
+## Languages Used
 
 | Language | Extension |
 |----------|-----------|
@@ -50,7 +50,7 @@ Each problem is solved in all three languages wherever possible.
 
 ---
 
-## 🧠 My Approach
+## My Approach
 
 I try to write solutions that are:
 - **Readable** — clean variable names, no unnecessary tricks
@@ -59,7 +59,7 @@ I try to write solutions that are:
 
 ---
 
-## ⚙️ Running the Solutions
+## Running the Solutions
 
 **C++**
 ```bash
@@ -78,17 +78,17 @@ javac TwoSum.java && java TwoSum
 
 ---
 
-## 📌 Note
+## Note
 
 All problems are sourced from [LeetCode](https://leetcode.com/).  
 This repository is purely for personal learning and practice.
 
 ---
 
-## 🙋‍♂️ Connect
+## Connect
 
-- LeetCode: [@your-username](https://leetcode.com/your-username)
-- GitHub: [@your-username](https://github.com/your-username)
+- LeetCode: [@Rishikesh_Gawali](https://leetcode.com/u/Rishikesh_Gawali/)
+- GitHub: [@RishikeshGawali](https://github.com/RishikeshGawali)
 ```
 
 Key additions:

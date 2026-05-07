@@ -32,7 +32,7 @@ Each file follows this pattern:
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy    | 2      |
-| 🟡 Medium  | 6      |
+| 🟡 Medium  | 8      |
 | 🔴 Hard    | 2      |
 | **Total**  | **0**  |
 

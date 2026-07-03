@@ -34,7 +34,7 @@ Each file follows this pattern:
 | 🟢 Easy    | 3      |
 | 🟡 Medium  | 8      |
 | 🔴 Hard    | 2      |
-| **Total**  | **13**  |
+|   Total    |   13   |
 
 ---
 

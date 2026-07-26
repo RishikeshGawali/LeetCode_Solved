@@ -31,9 +31,9 @@ Each file follows this pattern:
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 3      |
-| 🟡 Medium  | 8      |
-| 🔴 Hard    | 2      |
+| 🟢 Easy    |    4   |
+| 🟡 Medium  |    9   |
+| 🔴 Hard    |    2   |
 |   Total    |   15   |
 
 ---
